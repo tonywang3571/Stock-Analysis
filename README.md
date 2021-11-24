@@ -8,14 +8,14 @@ Steve is helping his parents with stock investments, but wants more information 
 ## Analysis and Results
 
 **Analysis of All Tickers (2017 and 2018):**  
-We performed an analysis for finding both Total Daily Volume and the Return of 12 different stock tickers. Total Daily Volume means the amount of stock that are sold or traded in a day. Return is the percent increase or decrease from the start of the year less end of the year. We can see that the overall performance of the Tickers are positive in 2017, but noticed a decrease in 2018, except for ENPH and RUN whom maintained a positive return in both years. As well with TERP whom maintained a negative return in both 2017 and 2018.
+We performed an analysis for finding both Total Daily Volume and the Return of 12 different stock tickers. Total Daily Volume means the amount of stock that are sold or traded in a day. Return is the percent increase or decrease from the start of the year less end of the year. We can see that the overall performance of the Tickers are positive in 2017, but noticed a decrease in 2018, except for ENPH and RUN whom maintained a positive return in both years. As well with TERP whom maintained a negative return in both 2017 and 2018.  
 <img src="Resources/All_Stocks_Analysis_2017.PNG" width="400"> <img src="Resources/All_Stocks_Analysis_2018.PNG" width="400">
 
 **Analysis of DQ Ticker (2017 and 2018):**  
 Steve's parents were wanting to invest in DQ stock. Looking back at the charts above, if Steve's parents invested in DQ in 2017, that would be a good decision as we saw an increase in return of 199%. The opposite would be true if they invested in 2018 with a decrease in return of 62%. Obviously we can't predict what stock will do in the future, but looking at past results can give a glimps of what it might look like in the future, or at least treads of the expected result. By looking at past results, Steve would be able to give an informed input on helping his parents make knowledgeable decisions on investments.
 
 **Marco and Refractoring Macro:**  
-During this project, we were able to write Macros in VBA to assist with our analaysis in both calculating our data to provide accurate results for Steve, as well as saving time from looking through our data to sort our data by tickers, daily volume, and our return. Another benefit with our Macro scripts, we can use them in the future when we are wanting to perform the same analaysis but for different years. We also refactored our macro to run faster and more efficient if our dataset gets larger in the future.
+During this project, we were able to write Macros in VBA to assist with our analaysis in both calculating our data to provide accurate results for Steve, as well as saving time from looking through our data to sort our data by tickers, daily volume, and our return. Another benefit with our Macro scripts, we can use them in the future when we are wanting to perform the same analaysis but for different years. We also refactored our macro to run faster and more efficient if our dataset gets larger in the future.  
 <img src="Resources/VBA_Challenge_2017(slow).PNG" width="400"> <img src="Resources/VBA_Challenge_2018(slow).PNG" width="400">
 <img src="Resources/VBA_Challenge_2017(fast).PNG" width="400"> <img src="Resources/VBA_Challenge_2018(fast).PNG" width="400">
 
