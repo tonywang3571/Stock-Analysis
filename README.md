@@ -31,7 +31,7 @@ An advantage of the refactored VBA script, was that it ran faster compared to th
 
 
 
-### Codes Used
+### Codes Used (Original on left, Refactored on right)
 <img src="Resources/Original_vs_Refactored_Code.PNG" width="800">  
 <img src="Resources/Original_vs_Refactored_Code_2.PNG" width="800">  
 <img src="Resources/Original_vs_Refactored_Code_3.PNG" width="800">  
